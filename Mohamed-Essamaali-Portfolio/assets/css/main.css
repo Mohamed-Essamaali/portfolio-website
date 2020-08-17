@@ -125,6 +125,7 @@ input, select, textarea {
 	b, strong {
 		font-weight: 600;
 		color: #3e3e3e;
+		font-size:80%
 	}
 
 	i, em {
@@ -2124,7 +2125,7 @@ input, select, textarea {
 
 			#top .image img {
 				border-radius: 10%;
-				transform: rotate(90deg);
+				/* transform: rotate(90deg); */
 			}
 
 		#top h1 {
